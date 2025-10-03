@@ -10,7 +10,7 @@
 
 int main(){
 
-int arr[4]={1,2,3,7};
+int arr[4]={1,2,3,8};
 int sum=sum_array(arr,4);
 cout<<sum;
 cout<<endl<<endl;
